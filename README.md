@@ -38,7 +38,7 @@ ONE is your ultra-precise **oracle of unity**, built for developers, DeFi archit
 - **OpenZeppelin Contracts 5.x**
 - **Hardhat / Foundry Compatible**
 - **Chainlink / Custom Oracle Integration-Ready**
-  ```bash
+```bash
 forge script script/Deployone.s.sol:Deployone --rpc-url http://localhost:8545 --broadcast --sender 0xf39Fd6e51aad88F6F4ce6Ab8827279cfffb92266
 ```
 
