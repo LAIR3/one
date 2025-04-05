@@ -26,9 +26,7 @@ ONE is your ultra-precise **oracle of unity**, built for developers, DeFi archit
 - ✅ Gas-optimized for high-precision arithmetic
 
 ## 🧰 Use Cases
-```bash
-forge script script/Deployone.s.sol:Deployone --rpc-url http://localhost:8545 --broadcast --sender 0xf39Fd6e51aad88F6F4ce6Ab8827279cfffb92266
-```
+
 - 🧠 **Mathematical Oracle:** Use ONE as a standard unit of truth in DeFi, machine learning models, or advanced on-chain analytics.
 - ⚖️ **Normalized Value Anchor:** Peg all tokens, liquidity metrics, or stablecoin logic to ONE for consistent unit scaling.
 - 🌉 **Cross-Protocol Consistency:** Use ONE across chains as the common denominator of value in bridged assets.
@@ -40,6 +38,9 @@ forge script script/Deployone.s.sol:Deployone --rpc-url http://localhost:8545 --
 - **OpenZeppelin Contracts 5.x**
 - **Hardhat / Foundry Compatible**
 - **Chainlink / Custom Oracle Integration-Ready**
+  ```bash
+forge script script/Deployone.s.sol:Deployone --rpc-url http://localhost:8545 --broadcast --sender 0xf39Fd6e51aad88F6F4ce6Ab8827279cfffb92266
+```
 
 ## 🔍 Contract Overview
 
