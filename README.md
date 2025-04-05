@@ -1,10 +1,10 @@
 # ONE ONE — The Oracle of Absolute Value
 
-Welcome to the official smart contract repository of **ONE**, the most precise token in the Web3 universe. Engineered for mathematical integrity and blockchain standardization, ONE isn’t just another ERC20 — it’s the **unit of truth** in the decentralized world.
+Welcome to the official smart contract repository of **ONE**, the most precise token in the Web3 universe. Engineered for mathematical integrity and blockchain standardization, ONE isn’t just another ERC20 — it’s the **unit of truth** in the decentralized world<br />
 
 ## 🌐 What is ONE?
 
-**ONE** is an ERC20 token with a revolutionary twist: it’s minted as **1 unit with 77 decimal places**. That’s **10⁷⁷ units of resolution**, mapped to a single on-chain token — defining what **"1"** really means in high-precision, low-error computations.
+**ONE** is an ERC20 token with beyond infinite mindset solving expressing 0^0 using solidity to create 010 Oracle.: one is minted as **1 unit with 77 decimal places**. That’s **10⁷⁷ units of resolution**, mapped to a single on-chain token — defining what **"1"** really means as a unti of measurement useful in precision accuracy in value computation
 
 ONE is your ultra-precise **oracle of unity**, built for developers, DeFi architects, protocol engineers, and researchers who demand absolute accuracy in their smart contracts.
 
