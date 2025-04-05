@@ -5,11 +5,11 @@ pragma solidity ^0.8.20;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract OneOneOracleToken is ERC20, Ownable {
+contract Oracle is ERC20, Ownable {
     uint8 private constant _DECIMALS = 77;
     uint256 private constant ONE_UNIT = 10 ** uint256(_DECIMALS);
 
-    constructor(address initialRecipient) ERC20("one", "ONE") Ownable(msg.sender) {
+    constructor(address initialRecipient) ERC20("ONE", "ONE") Ownable(msg.sender) {
         // Mint one token with 77 decimal positions to the deployer or specified recipient
         _mint(initialRecipient, ONE_UNIT);
     }
