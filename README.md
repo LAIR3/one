@@ -1,4 +1,4 @@
-# 🧠 ONE — The Oracle of Absolute Value
+# 🧠 one ONE — The Oracle of Absolute Value
 
 Welcome to the official smart contract repository of **ONE**, the most precise token in the Web3 universe. Engineered for mathematical integrity and blockchain standardization, ONE isn’t just another ERC20 — it’s the **unit of truth** in the decentralized world.
 
@@ -26,7 +26,9 @@ ONE is your ultra-precise **oracle of unity**, built for developers, DeFi archit
 - ✅ Gas-optimized for high-precision arithmetic
 
 ## 🧰 Use Cases
-
+```bash
+forge script script/Deployone.s.sol:Deployone --rpc-url http://localhost:8545 --broadcast --sender 0xf39Fd6e51aad88F6F4ce6Ab8827279cfffb92266
+```
 - 🧠 **Mathematical Oracle:** Use ONE as a standard unit of truth in DeFi, machine learning models, or advanced on-chain analytics.
 - ⚖️ **Normalized Value Anchor:** Peg all tokens, liquidity metrics, or stablecoin logic to ONE for consistent unit scaling.
 - 🌉 **Cross-Protocol Consistency:** Use ONE across chains as the common denominator of value in bridged assets.
