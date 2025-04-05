@@ -45,7 +45,7 @@ forge script script/Deployone.s.sol:Deployone --rpc-url http://localhost:8545 --
 ## 🔍 Contract Overview
 
 ```solidity
-contract OracleToken is ERC20, Ownable {
+contract Oracle is ERC20, Ownable {
     uint8 private constant _DECIMALS = 77;
     uint256 private constant ONE_UNIT = 10 ** uint256(_DECIMALS);
 
