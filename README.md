@@ -89,7 +89,8 @@ In Solidity, where arithmetic is bounded by fixed precision (uint256, 18 decimal
 ONE expresses this absolute truth, not abstractly, but with deterministic, hardcoded clarity.
 
 ⚙️ Functional Utility of ONE in Smart Contracts
-1. Universal Fixed-Point Precision
+
+# Universal Fixed-Point Precision
 Most tokens use 18 decimals. But DeFi now needs more:
 
 Yield farming uses fractionalized APRs.
