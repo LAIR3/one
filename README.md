@@ -49,7 +49,7 @@ contract Oracle is ERC20, Ownable {
     uint8 private constant _DECIMALS = 77;
     uint256 private constant ONE_UNIT = 10 ** uint256(_DECIMALS);
 
-    constructor(address initialRecipient) ERC20("one", "ONE") Ownable(msg.sender) {
+    constructor(address initialRecipient) ERC20("ONE", "ONE") Ownable(msg.sender) {
         _mint(initialRecipient, ONE_UNIT);
     }
 
