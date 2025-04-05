@@ -1,4 +1,4 @@
-# 🧠 one ONE — The Oracle of Absolute Value
+# ONE ONE — The Oracle of Absolute Value
 
 Welcome to the official smart contract repository of **ONE**, the most precise token in the Web3 universe. Engineered for mathematical integrity and blockchain standardization, ONE isn’t just another ERC20 — it’s the **unit of truth** in the decentralized world.
 
